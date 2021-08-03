@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anmolsingh08
-- 👀 I’m interested in internships
-- 🌱 I’m currently pursuing  CSE
+# 👋 Hi, I’m Anmol singh
+- 👀 I’m interested in WEB Development
+- 🌱 I’m currently learning cloud computing
 - 📫 How to reach me anmoldav2@gmail.com
 
 <!---
