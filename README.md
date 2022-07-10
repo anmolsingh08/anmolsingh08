@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Anmol singh
-- 👀 I’m interested in WEB Development
+- 👀 I’m interested in Software engineering
 - 📫 How to reach me anmoldav2@gmail.com
 
 <!---
